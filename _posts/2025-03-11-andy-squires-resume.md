@@ -20,12 +20,11 @@ system functionality.
 
 ### Skills and Abilities
 
-\* ERP Systems Management \* Data Integration & Automation \* IT Project
-Management
-\* Automation & Optimization \* Database Administration \* Resource
-Management
-\* IT Infrastructure Management \* System Operations & Support \*
-Software Development
+|                              |                                  |                             |
+|------------------------------|----------------------------------|-----------------------------|
+| ERP Systems Management       | Data Integration & Automation   | IT Project Management       |
+| Automation & Optimization    | Database Administration          | Resource Management         |
+| IT Infrastructure Management | System Operations & Support      | Software Development        |
 
 * Programming \| PowerShell (DBATools), Perl, C, ColdFusion,
 Envision/Unibasic, Working knowledge of Python
